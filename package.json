@@ -1,0 +1,22 @@
+{
+  "name": "laravel-echo-vue3",
+  "version": "1.0.1",
+  "description": "Laravel Echo Vue 3",
+  "main": "index.js",
+  "keywords": [
+    "Laravel",
+    "Laravel Echo",
+    "Vue 3",
+    "Pusher Js",
+    "Laravel Websockets"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ferdiunal/laravel-echo-vue3.git"
+  },
+  "author": "Ferdi UNAL <ferdiunal@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "laravel-echo": "^1.14.0"
+  }
+}
